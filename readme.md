@@ -4,9 +4,9 @@
       - Machine Learning Enthusiast
 
   
-<p>
-  <img height=300 align="right" src="assets/python.gif"/>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp   <img height=300 src="assets/github.gif" />
-</p>
+<div>
+  <img height=300 align="right" src="assets/python.gif"/> <p>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp</p>   <img height=300 src="assets/github.gif" />
+</div>
 
 <br>
 
