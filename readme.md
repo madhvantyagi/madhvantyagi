@@ -7,6 +7,7 @@
 <p>
   <img height=300 align="right" src="assets/python.gif"/>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp   <img height=300 src="assets/github.gif" />
 </p>
+
 <br>
 
 ## My Skill-Set
