@@ -1,12 +1,12 @@
 # Hi, I'm Maddy! 👋🏻
   
-      - Web Developer { speciality.animations=true }
+      - Web Developer  speciality.animations=true 
       - Machine Learning Enthusiast
 
   
-<div>
-  <img height=300 align="right" src="assets/python.gif"/> <p>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp</p>   <img height=300 src="assets/github.gif" />
-</div>
+<p>
+  <img height=300 align="right" src="assets/python.gif"/>  &nbsp &nbsp   &nbsp &nbsp   &nbsp &nbsp  <img height=300 src="assets/github.gif" />
+</p>
 
 <br>
 
