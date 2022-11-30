@@ -1,6 +1,6 @@
 # Hi, I'm Maddy! 👋🏻
   
-      - Web Developer  speciality.animations=true 
+      - Web Developer  {speciality.backend=fetch} 
       - Machine Learning Enthusiast
 
   
