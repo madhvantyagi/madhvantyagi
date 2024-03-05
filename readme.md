@@ -33,8 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Bit Good in Problem Solving
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MADHVAN)](https://github.com/MADHVAN/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MADHVAN&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
     
 ## 🚀 About Me:
 
