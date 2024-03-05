@@ -31,6 +31,10 @@
 ### 💻 Other Skills
 ![linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Bit Good in Problem Solving
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MADHVAN)](https://github.com/MADHVAN/leetcode-stats)
     
 ## 🚀 About Me:
 
