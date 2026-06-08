@@ -1,26 +1,34 @@
 <div align="center">
 
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 900px;"><tr><td align="left" width="100%">
+
 <!-- ═══ HEADER — waving + twinkling = animated wave + subtle glow ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,65:4338ca,100:06b6d4&height=220&section=header&text=Madhvan%20Tyagi&fontSize=52&fontColor=E6EDF3&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20ML%20Research&descSize=16&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,65:4338ca,100:06b6d4&height=220&section=header&text=Madhvan%20Tyagi&fontSize=52&fontColor=E6EDF3&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20ML%20Research&descSize=16&descAlignY=58&descAlign=50&width=900" width="100%" style="max-width: 100%;" alt="Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=training+SLMs+from+scratch%2C+token+by+token;reverse-engineering+transformer+internals;understanding+the+math+behind+attention;building+eval+loops+models+can%27t+cheat+on;steering+agent+behavior+without+retraining;shipping+research+systems+that+beat+frontier+baselines" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=680&lines=training+SLMs+from+scratch%2C+token+by+token;reverse-engineering+transformer+internals;understanding+the+math+behind+attention;building+eval+loops+models+can%27t+cheat+on;steering+agent+behavior+without+retraining;shipping+research+systems+that+beat+frontier+baselines" width="100%" style="max-width: 680px;" alt="Typing intro" />
 
 <br/><br/>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/madhvan-tyagi-10a44a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Email-E6EDF3?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
 <a href="https://leetcode.com/Madhvan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode" /></a>
 <a href="https://github.com/madhvantyagi"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
 <a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/WORT.nyc-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WORT" /></a>
+</p>
 
-<br/><br/>
+<br/>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Jersey_City,_NJ-30363D?style=for-the-badge&label=Location&labelColor=161B22" />
 <img src="https://img.shields.io/badge/Open_to_Work-3FB950?style=for-the-badge&label=Status&labelColor=161B22" />
 <img src="https://img.shields.io/badge/2.5%2B_Years-58A6FF?style=for-the-badge&label=Experience&labelColor=161B22" />
 <img src="https://img.shields.io/badge/300%2B-BC8CFF?style=for-the-badge&label=LeetCode&labelColor=161B22" />
+</p>
+
+</td></tr></table>
 
 </div>
 
@@ -30,7 +38,7 @@
 
 ## About
 
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td>
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 900px;"><tr><td width="100%">
 
 <table width="100%" cellpadding="22" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td>
 
@@ -41,12 +49,12 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0"><tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top" style="max-width: 430px;">
 
 <a href="https://www.wort.nyc">
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#0D1117"><tr><td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=64&section=header&text=WORT.AI&fontSize=28&fontColor=E6EDF3&fontAlignY=42&desc=Deep+Research+Agent&descSize=12&descAlignY=68&descAlign=50&animation=twinkling" width="100%" alt="WORT.AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=64&section=header&text=WORT.AI&fontSize=28&fontColor=E6EDF3&fontAlignY=42&desc=Deep+Research+Agent&descSize=12&descAlignY=68&descAlign=50&animation=twinkling&width=430" width="100%" style="max-width: 100%;" alt="WORT.AI" />
 
 <table width="100%" cellpadding="14" cellspacing="0"><tr><td>
 <sub>Recursive BFS research · parallel agent loops · RLVR query gen at <b>94%</b></sub>
@@ -59,13 +67,12 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 </a>
 
 </td>
-<td width="2%"></td>
-<td width="49%" valign="top">
+<td width="50%" valign="top" style="max-width: 430px;">
 
 <a href="https://github.com/madhvantyagi/SOUL.md">
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #BC8CFF; border-bottom: 4px solid #BC8CFF;" bgcolor="#0D1117"><tr><td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=64&section=header&text=SOUL.md&fontSize=28&fontColor=E6EDF3&fontAlignY=42&desc=Agent+Persona+Spec&descSize=12&descAlignY=68&descAlign=50&animation=twinkling" width="100%" alt="SOUL.md" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=64&section=header&text=SOUL.md&fontSize=28&fontColor=E6EDF3&fontAlignY=42&desc=Agent+Persona+Spec&descSize=12&descAlignY=68&descAlign=50&animation=twinkling&width=430" width="100%" style="max-width: 100%;" alt="SOUL.md" />
 
 <table width="100%" cellpadding="14" cellspacing="0"><tr><td>
 <sub>Portable persona files · behavioral steering · <b>200+</b> GitHub stars in week one</sub>
@@ -82,9 +89,10 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 
 <br/>
 
-<table cellpadding="6"><tr>
+<table cellpadding="6" align="center"><tr>
 <td><img src="https://img.shields.io/badge/Focus-AI_Agents-BC8CFF?style=flat-square&labelColor=21262D" /></td>
 <td><img src="https://img.shields.io/badge/Focus-LLM_Systems-58A6FF?style=flat-square&labelColor=21262D" /></td>
+</tr><tr>
 <td><img src="https://img.shields.io/badge/Focus-Production_ML-3FB950?style=flat-square&labelColor=21262D" /></td>
 <td><img src="https://img.shields.io/badge/Focus-Backend_Architecture-D29922?style=flat-square&labelColor=21262D" /></td>
 </tr></table>
@@ -109,27 +117,24 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 <br/>
 
 <!-- ═══ WORT.AI CARD ═══ -->
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td>
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 900px;"><tr><td width="100%">
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius: 14px; border: 1px solid #30363D;" bgcolor="#161B22"><tr><td>
 
 <table width="100%" cellpadding="0" cellspacing="0"><tr><td>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,50:21262D,100:58A6FF&height=88&section=header&text=WORT.AI&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=Autonomous+Deep+Research+Agent&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="WORT.AI" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,50:21262D,100:58A6FF&height=88&section=header&text=WORT.AI&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=Autonomous+Deep+Research+Agent&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn&width=900" width="100%" style="max-width: 100%;" alt="WORT.AI" />
 
 </td></tr></table>
 
 <table width="100%" cellpadding="20" cellspacing="0"><tr><td>
 
-<table width="100%" cellpadding="0"><tr>
-<td align="left" valign="middle">
-  <sub><b>Recursive BFS</b> · parallel researcher–reviewer loops · cited HTML reports · hybrid RAG memory</sub>
-</td>
-<td align="right" valign="middle">
-  <a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repo" /></a>
-  <a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Live" /></a>
-</td>
-</tr></table>
+<sub><b>Recursive BFS</b> · parallel researcher–reviewer loops · cited HTML reports · hybrid RAG memory</sub>
+
+<br/><br/>
+
+<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repo" /></a>
+<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Live" /></a>
 
 <br/>
 
@@ -189,26 +194,23 @@ A research engine built from first principles. WORT decomposes a goal into sub-q
 <br/>
 
 <!-- ═══ SOUL.md CARD ═══ -->
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td>
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width: 900px;"><tr><td width="100%">
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius: 14px; border: 1px solid #30363D;" bgcolor="#161B22"><tr><td>
 
 <table width="100%" cellpadding="0" cellspacing="0"><tr><td>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,50:21262D,100:BC8CFF&height=88&section=header&text=SOUL.md&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=Portable+Agent+Persona+Specification&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="SOUL.md" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161B22,50:21262D,100:BC8CFF&height=88&section=header&text=SOUL.md&fontSize=38&fontColor=E6EDF3&fontAlignY=38&desc=Portable+Agent+Persona+Specification&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn&width=900" width="100%" style="max-width: 100%;" alt="SOUL.md" />
 
 </td></tr></table>
 
 <table width="100%" cellpadding="20" cellspacing="0"><tr><td>
 
-<table width="100%" cellpadding="0"><tr>
-<td align="left" valign="middle">
-  <sub><b>Behavioral steering</b> · multi-model TRAIT eval · open source · drop-in agent personalities</sub>
-</td>
-<td align="right" valign="middle">
-  <a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=BC8CFF" alt="Repo" /></a>
-</td>
-</tr></table>
+<sub><b>Behavioral steering</b> · multi-model TRAIT eval · open source · drop-in agent personalities</sub>
+
+<br/><br/>
+
+<a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=BC8CFF" alt="Repo" /></a>
 
 <br/>
 
@@ -275,7 +277,7 @@ Open-source collection of portable `SOUL.md` files that give LLM agents a distin
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #3FB950; border-bottom: 4px solid #3FB950;" bgcolor="#161B22"><tr><td>
+<table width="100%" cellpadding="20" cellspacing="0" style="max-width: 900px; border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #3FB950; border-bottom: 4px solid #3FB950;" bgcolor="#161B22"><tr><td>
 
 <table width="100%"><tr>
 <td><img src="https://img.shields.io/badge/CareSphere-3FB950?style=for-the-badge&label=Company&labelColor=21262D" /></td>
@@ -299,7 +301,7 @@ Architected the workforce platform for <b>5,000+ caregivers</b> — scheduling, 
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #BC8CFF; border-bottom: 4px solid #BC8CFF;" bgcolor="#161B22"><tr><td>
+<table width="100%" cellpadding="20" cellspacing="0" style="max-width: 900px; border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #BC8CFF; border-bottom: 4px solid #BC8CFF;" bgcolor="#161B22"><tr><td>
 
 <table width="100%"><tr>
 <td><img src="https://img.shields.io/badge/Queens_College_CUNY-BC8CFF?style=for-the-badge&label=Research&labelColor=21262D" /></td>
@@ -320,7 +322,7 @@ Led a 4-person team on <b>LLMs for tabular data</b>.
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #D29922; border-bottom: 4px solid #D29922;" bgcolor="#161B22"><tr><td>
+<table width="100%" cellpadding="20" cellspacing="0" style="max-width: 900px; border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #D29922; border-bottom: 4px solid #D29922;" bgcolor="#161B22"><tr><td>
 
 <table width="100%"><tr>
 <td><img src="https://img.shields.io/badge/Ingelt_Board-D29922?style=for-the-badge&label=Internship&labelColor=21262D" /></td>
@@ -386,21 +388,21 @@ Backend for an education platform serving <b>10,000+ students</b> — REST APIs,
 <br/><br/>
 
 <!-- github-readme-stats.vercel.app returns 503 — sigma mirror used below -->
-<table cellpadding="8"><tr>
-<td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhvantyagi&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&icon_color=3FB950&bg_color=0D1117&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" height="180" />
+<table width="100%" cellpadding="8" cellspacing="0" style="max-width: 900px;"><tr>
+<td align="center" width="33%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhvantyagi&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&icon_color=3FB950&bg_color=0D1117&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" width="100%" style="max-width: 280px;" height="180" />
 </td>
-<td align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=0e7490&fire=818cf8&currStreakLabel=67E8F9&sideLabels=E6EDF3&dates=8B949E&background=0D1117" alt="GitHub Streak" height="180" />
+<td align="center" width="33%">
+  <img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=0e7490&fire=818cf8&currStreakLabel=67E8F9&sideLabels=E6EDF3&dates=8B949E&background=0D1117" alt="GitHub Streak" width="100%" style="max-width: 280px;" height="180" />
 </td>
-<td align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhvantyagi&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=8&border_radius=10&hide=html,css,scss" alt="Top Languages" height="180" />
+<td align="center" width="33%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhvantyagi&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=8&border_radius=10&hide=html,css,scss" alt="Top Languages" width="100%" style="max-width: 280px;" height="180" />
 </td>
 </tr></table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhvantyagi&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=30363D&point=BC8CFF&area=true&area_color=161B22" width="96%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhvantyagi&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=30363D&point=BC8CFF&area=true&area_color=161B22" width="100%" style="max-width: 900px;" alt="Contribution Graph" />
 
 </div>
 
@@ -412,7 +414,7 @@ Backend for an education platform serving <b>10,000+ students</b> — REST APIs,
 
 <div align="center">
 
-<table width="90%" cellpadding="28" cellspacing="0" style="border-radius: 14px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td align="center">
+<table width="100%" cellpadding="28" cellspacing="0" style="max-width: 900px; border-radius: 14px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td align="center">
 
 <h3>Let's Build the Hard Stuff</h3>
 
@@ -432,6 +434,6 @@ Looking for teams building agent architectures, custom training pipelines, produ
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,55:4338ca,0:06b6d4&height=100&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,55:4338ca,0:06b6d4&height=100&section=footer&animation=twinkling&width=900" width="100%" style="max-width: 900px;" alt="Footer" />
 
 </div>
