@@ -9,20 +9,20 @@
 
 <br/>
 
-<!-- socials — brand colors kept natural -->
+<!-- socials — natural brand colors -->
 <a href="https://www.linkedin.com/in/madhvan-tyagi-10a44a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/Madhvan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://github.com/madhvantyagi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/WORT.nyc-c084fc?style=for-the-badge&logo=googlechrome&logoColor=black" alt="WORT" /></a>
+<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/WORT.nyc-1A3C2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WORT" /></a>
 
 <br/><br/>
 
-<!-- vitals ribbon — clean single line -->
-<img src="https://img.shields.io/badge/📍-Jersey%20City%2C%20NJ-60a5fa?style=flat-square&label=Location&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-60a5fa?style=flat-square&labelColor=0D1117" />
+<!-- vitals — natural, balanced colors -->
+<img src="https://img.shields.io/badge/Location-Jersey%20City%2C%20NJ-60a5fa?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-34d399?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-60a5fa?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LeetCode-300%2B-c084fc?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -30,16 +30,14 @@
 
 ## About
 
-> I build AI systems that ship in production, not notebooks. Computer Science at **Queens College, CUNY** (May 2026). I work across RLVR fine-tuning, multi-agent orchestration, hybrid retrieval, and backend infrastructure serving thousands of users.
-
-When a problem needs custom architecture instead of a prompt tweak, that is where I do my best work. I founded **[WORT.AI](https://www.wort.nyc)** and **[SOUL.md](https://github.com/madhvantyagi/SOUL.md)**.
+> Curious guy who likes **maths, physics, motorbikes, and programming**. I build AI systems that ship in production — multi-agent orchestration, hybrid retrieval, and RLVR fine-tuning. CS at Queens College, CUNY (May 2026). Founded **[WORT.AI](https://www.wort.nyc)** and **[SOUL.md](https://github.com/madhvantyagi/SOUL.md)**.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-AI_Agents-c084fc?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-LLM_Systems-60a5fa?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-Production_ML-60a5fa?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-Backend_Arch-c084fc?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-RLVR_FineTuning-60a5fa?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Maths-60a5fa?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Physics-c084fc?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Motorbikes-f59e0b?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Programming-60a5fa?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20Systems-c084fc?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
@@ -50,8 +48,8 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 *Recursive BFS · parallel researcher–reviewer loops · cited HTML reports · hybrid RAG memory*
 
 <p align="center">
-<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
-<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-60a5fa?style=flat-square&logo=googlechrome&logoColor=black" alt="Live" /></a>
+<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-1A3C2B?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
 <img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&label=Stars&color=60a5fa&labelColor=0D1117" />
 <img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&label=Forks&color=60a5fa&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Query_Gen-71%25%20%E2%86%92%2094%25-c084fc?style=flat-square&logo=probot&logoColor=black&label=RLVR+Eval&labelColor=0D1117" />
@@ -127,7 +125,7 @@ Backend for an education platform serving **10,000+ students** — REST APIs, 45
 <img src="https://img.shields.io/github/followers/madhvantyagi?label=Followers&style=flat-square&color=60a5fa&labelColor=0D1117&logo=github" />
 <img src="https://img.shields.io/badge/dynamic/json?color=c084fc&label=Public%20Repos&query=$.public_repos&url=https://api.github.com%2Fusers%2Fmadhvantyagi&style=flat-square&labelColor=0D1117&logo=github" />
 <img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?label=SOUL.md%20Stars&style=flat-square&color=60a5fa&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/github/last-commit/madhvantyagi/SOUL.md?label=Last%20Commit&style=flat-square&color=c084fc&labelColor=0D1117&logo=git" />
+<img src="https://img.shields.io/github/last-commit/madhvantyagi/SOUL.md?label=Last%20Commit&style=flat-square&color=34d399&labelColor=0D1117&logo=git" />
 </p>
 
 <p align="center">
@@ -137,14 +135,14 @@ Backend for an education platform serving **10,000+ students** — REST APIs, 45
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=60a5fa&fire=c084fc&currStreakLabel=60a5fa&sideLabels=E6EDF3&dates=8B949E&background=0D1117&border_radius=14" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=E6EDF3&dates=8B949E&background=0D1117&border_radius=14" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhvantyagi&theme=react-dark&hide_border=true&bg_color=0D1117&color=60a5fa&line=30363D&point=c084fc&area=true&area_color=21262D&radius=14" alt="Contribution Graph" width="100%" />
 </p>
 
-<!-- contribution snake — auto-generated daily by the Generate Snake workflow -->
+<!-- contribution snake — themed blue/purple, auto-generated daily by the Generate Snake workflow -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" />
@@ -153,21 +151,9 @@ Backend for an education platform serving **10,000+ students** — REST APIs, 45
 </picture>
 </p>
 
----
-
-<div align="center">
-
-## Let's Build the Hard Stuff
-
-Looking for teams building agent architectures, custom training pipelines, production RAG,<br/>and infrastructure that serves real users at scale.
-
 <br/>
 
-<a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-madhvantyagi1@gmail.com-60a5fa?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=madhvantyagi&color=60a5fa&style=for-the-badge&label=Profile%20Views&labelColor=0D1117" alt="Profile views" />
-
-<br/><br/>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,45:2563eb,100:0D1117&height=90&section=footer&animation=twinkling&fontColor=E6EDF3&fontSize=1&text=%20" width="100%" alt="Footer" />
 

@@ -12,13 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the contribution-grid snake SVGs
+      - name: Generate themed contribution-grid snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=c084fc&color_dots=#0D1117,#1e3a8a,#2563eb,#3b82f6,#60a5fa
+            dist/github-snake.svg?color_snake=7c3aed&color_dots=#ffffff,#dbeafe,#93c5fd,#3b82f6,#1d4ed8
 
       - name: Publish SVGs to the `output` branch
         uses: peaceiris/actions-gh-pages@v4
