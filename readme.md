@@ -1,40 +1,71 @@
 <div align="center">
 
-<!-- ═══ HEADER — waving + twinkling = animated wave + subtle glow ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:161B22,65:4338ca,100:06b6d4&height=220&section=header&text=Madhvan%20Tyagi&fontSize=52&fontColor=E6EDF3&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20ML%20Research&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+<!-- ════════════════════════  HERO  ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,22:111C33,55:6366F1,82:06B6D4,100:22D3EE&height=232&section=header&text=Madhvan%20Tyagi&fontSize=58&fontColor=E6EDF3&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full%2DStack%20%C2%B7%20ML%20Research&descSize=17&descAlignY=60&descAlign=50" width="100%" alt="Madhvan Tyagi" />
+
+<!-- thin gradient seam under the hero -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:818CF8,100:6366F1&height=2&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=training+SLMs+from+scratch%2C+token+by+token;reverse-engineering+transformer+internals;understanding+the+math+behind+attention;building+eval+loops+models+can%27t+cheat+on;steering+agent+behavior+without+retraining;shipping+research+systems+that+beat+frontier+baselines" alt="Typing intro" />
+<!-- ════════════════════════  TYPING TERMINAL  ════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=training+SLMs+from+scratch%2C+token+by+token;reverse-engineering+transformer+internals;understanding+the+math+behind+attention;building+eval+loops+models+can't+cheat+on;steering+agent+behavior+without+retraining;shipping+research+systems+that+beat+frontier+baselines" alt="Typing intro" width="720" />
 
-<br/><br/>
+<br/>
 
-<p align="center">
+<!-- ════════════════════════  SOCIALS  ════════════════════════ -->
 <a href="https://www.linkedin.com/in/madhvan-tyagi-10a44a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Email-E6EDF3?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
 <a href="https://leetcode.com/Madhvan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode" /></a>
-<a href="https://github.com/madhvantyagi"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
-<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/WORT.nyc-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WORT" /></a>
-</p>
+<a href="https://github.com/madhvantyagi"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/WORT.nyc-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="WORT" /></a>
 
-<br/>
+<br/><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Jersey_City,_NJ-30363D?style=for-the-badge&label=Location&labelColor=161B22" />
-<img src="https://img.shields.io/badge/Open_to_Work-3FB950?style=for-the-badge&label=Status&labelColor=161B22" />
-<img src="https://img.shields.io/badge/2.5%2B_Years-58A6FF?style=for-the-badge&label=Experience&labelColor=161B22" />
-<img src="https://img.shields.io/badge/300%2B-BC8CFF?style=for-the-badge&label=LeetCode&labelColor=161B22" />
-</p>
+<!-- ════════════════════════  VITALS BENTO  ════════════════════════ -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td width="25%" valign="top" align="center">
+  <table width="92%" cellpadding="14" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #22D3EE;border-bottom:4px solid #22D3EE;" bgcolor="#0D1117"><tr><td align="center">
+    <sub><b>LOCATION</b></sub><br/>
+    <font size="4" color="#22D3EE"><b>Jersey&nbsp;City</b></font><br/>
+    <sub>New Jersey · USA</sub>
+  </td></tr></table>
+</td>
+<td width="25%" valign="top" align="center">
+  <table width="92%" cellpadding="14" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #34D399;border-bottom:4px solid #34D399;" bgcolor="#0D1117"><tr><td align="center">
+    <sub><b>STATUS</b></sub><br/>
+    <font size="4" color="#34D399"><b>Open&nbsp;to&nbsp;Work</b></font><br/>
+    <sub>Full-time · AI / ML</sub>
+  </td></tr></table>
+</td>
+<td width="25%" valign="top" align="center">
+  <table width="92%" cellpadding="14" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #818CF8;border-bottom:4px solid #818CF8;" bgcolor="#0D1117"><tr><td align="center">
+    <sub><b>EXPERIENCE</b></sub><br/>
+    <font size="5" color="#818CF8"><b>2.5+</b></font><br/>
+    <sub>Years shipping</sub>
+  </td></tr></table>
+</td>
+<td width="25%" valign="top" align="center">
+  <table width="92%" cellpadding="14" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #F472B6;border-bottom:4px solid #F472B6;" bgcolor="#0D1117"><tr><td align="center">
+    <sub><b>LEETCODE</b></sub><br/>
+    <font size="5" color="#F472B6"><b>300+</b></font><br/>
+    <sub>Problems solved</sub>
+  </td></tr></table>
+</td>
+</tr></table>
 
 </div>
 
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td height="1" bgcolor="#21262D"></td></tr></table>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
-## About
+<!-- ════════════════════════  ABOUT  ════════════════════════ -->
+<table width="100%" cellpadding="26" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #818CF8;border-bottom:4px solid #818CF8;" bgcolor="#0D1117"><tr><td>
 
-<table width="100%" cellpadding="22" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td>
+## <code>&nbsp;./about&nbsp;</code>
 
 > I build AI systems that ship in production, not notebooks. Computer Science at **Queens College, CUNY** (May 2026). I work across RLVR fine-tuning, multi-agent orchestration, hybrid retrieval, and backend infrastructure serving thousands of users.
 
@@ -43,53 +74,71 @@ When a problem needs custom architecture instead of a prompt tweak, that is wher
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-AI_Agents-BC8CFF?style=flat-square&labelColor=21262D" />
-<img src="https://img.shields.io/badge/Focus-LLM_Systems-58A6FF?style=flat-square&labelColor=21262D" />
-<img src="https://img.shields.io/badge/Focus-Production_ML-3FB950?style=flat-square&labelColor=21262D" />
-<img src="https://img.shields.io/badge/Focus-Backend_Architecture-D29922?style=flat-square&labelColor=21262D" />
+<img src="https://img.shields.io/badge/Focus-AI_Agents-818CF8?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-LLM_Systems-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-Production_ML-34D399?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-Backend_Arch-D29922?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-RLVR_FineTuning-F472B6?style=flat-square&labelColor=0D1117" />
 </p>
 
 </td></tr></table>
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td height="1" bgcolor="#21262D"></td></tr></table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
 
-<h2>Featured Projects</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:3a3a3a,58:121212,100:010409&height=1&section=header&text=%20" width="48" alt="" />
+<!-- ════════════════════════  FEATURED PROJECTS  ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,6,14&height=120&text=Featured%20Projects&fontSize=42&fontColor=E6EDF3&fontAlignY=42&animation=twinkling&desc=custom%20architecture%2C%20not%20prompt%20tweaks&descSize=14&descAlignY=70" width="100%" alt="Featured Projects" />
 
 </div>
 
 <br/>
 
-<!-- WORT.AI -->
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td>
+<!-- ───────────  WORT.AI  ─────────── -->
+<table width="100%" cellpadding="24" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #22D3EE;border-bottom:4px solid #6366F1;" bgcolor="#0D1117"><tr><td>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td width="70%" valign="middle">
 <h3>WORT.AI · Autonomous Deep Research Agent</h3>
 <sub>Recursive BFS · parallel researcher–reviewer loops · cited HTML reports · hybrid RAG memory</sub>
+</td>
+<td width="30%" valign="middle" align="right">
+<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a><br/>
+<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Live" /></a>
+</td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 <p align="center">
-<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repo" /></a>
-<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Live" /></a>
+<img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&label=Stars&color=22D3EE&labelColor=0D1117" />
+<img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&label=Forks&color=818CF8&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Query_Gen-71%25%20%E2%86%92%2094%25-34D399?style=flat-square&logo=probot&logoColor=0D1117&label=RLVR+Eval&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Engine-LangGraph-6366F1?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" />
 </p>
 
+<p align="center"><sub><b>EXECUTION PIPELINE</b></sub></p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=for-the-badge&logo=github&label=Stars&color=21262D&labelColor=0D1117" />
-<img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=for-the-badge&logo=github&label=Forks&color=21262D&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Query_Gen-94%25-58A6FF?style=for-the-badge&label=RLVR+Eval&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GOAL-decompose-161B22?style=flat-square&labelColor=22D3EE" />
+&nbsp;<font color="#6366F1"><b>›</b></font>&nbsp;
+<img src="https://img.shields.io/badge/PLAN-BFS%20tree-161B22?style=flat-square&labelColor=6366F1" />
+&nbsp;<font color="#818CF8"><b>›</b></font>&nbsp;
+<img src="https://img.shields.io/badge/RUN-parallel%20agents-161B22?style=flat-square&labelColor=818CF8" />
+&nbsp;<font color="#A78BFA"><b>›</b></font>&nbsp;
+<img src="https://img.shields.io/badge/REVIEW-reroute%20weak%20paths-161B22?style=flat-square&labelColor=A78BFA" />
+&nbsp;<font color="#C084FC"><b>›</b></font>&nbsp;
+<img src="https://img.shields.io/badge/SHIP-cited%20report-161B22?style=flat-square&labelColor=34D399" />
 </p>
 
 <br/>
 
 A research engine built from first principles. WORT decomposes a goal into sub-queries, runs parallel researcher–reviewer subgraphs, closes information gaps iteratively, and ships cited reports people can trust.
 
-<br/><br/>
+<br/>
 
 | Layer | Implementation |
 | :-- | :-- |
@@ -109,29 +158,33 @@ A research engine built from first principles. WORT decomposes a goal into sub-q
 
 <br/>
 
-<!-- SOUL.md -->
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #BC8CFF; border-bottom: 4px solid #BC8CFF;" bgcolor="#161B22"><tr><td>
+<!-- ───────────  SOUL.md  ─────────── -->
+<table width="100%" cellpadding="24" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #A78BFA;border-bottom:4px solid #F472B6;" bgcolor="#0D1117"><tr><td>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td width="70%" valign="middle">
 <h3>SOUL.md · Portable Agent Persona Specification</h3>
 <sub>Behavioral steering · multi-model TRAIT eval · open source · drop-in agent personalities</sub>
+</td>
+<td width="30%" valign="middle" align="right">
+<a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+</td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 <p align="center">
-<a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-21262D?style=for-the-badge&logo=github&logoColor=BC8CFF" alt="Repo" /></a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=for-the-badge&logo=github&label=Stars&color=21262D&labelColor=0D1117" />
-<img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=for-the-badge&logo=github&label=Forks&color=21262D&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Persona_Hold-~78%25-BC8CFF?style=for-the-badge&label=Adversarial&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=flat-square&logo=github&label=Stars&color=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=flat-square&logo=github&label=Forks&color=F472B6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Persona_Hold-~78%25-22D3EE?style=flat-square&logo=shield&logoColor=0D1117&label=Adversarial&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Steering-weak%E2%86%92strong-34D399?style=flat-square&logo=target&logoColor=0D1117&labelColor=0D1117" />
 </p>
 
 <br/>
 
 Open-source collection of portable `SOUL.md` files that give LLM agents a distinct, stable personality and steer how they reason, respond, and push back.
 
-<br/><br/>
+<br/>
 
 | Layer | Detail |
 | :-- | :-- |
@@ -150,23 +203,24 @@ Open-source collection of portable `SOUL.md` files that give LLM agents a distin
 
 <br/>
 
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td height="1" bgcolor="#21262D"></td></tr></table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
 
-<h2>Experience</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:3a3a3a,58:121212,100:010409&height=1&section=header&text=%20" width="48" alt="" />
+<!-- ════════════════════════  EXPERIENCE  ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,10,18&height=120&text=Experience&fontSize=42&fontColor=E6EDF3&fontAlignY=42&animation=twinkling&desc=systems%20that%20serve%20real%20users%20at%20scale&descSize=14&descAlignY=70" width="100%" alt="Experience" />
 
 </div>
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #3FB950; border-bottom: 4px solid #3FB950;" bgcolor="#161B22"><tr><td>
+<!-- ───────────  CareSphere  ─────────── -->
+<table width="100%" cellpadding="22" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #34D399;border-bottom:4px solid #34D399;" bgcolor="#0D1117"><tr><td>
 
-<table width="100%"><tr>
-<td><img src="https://img.shields.io/badge/CareSphere-3FB950?style=for-the-badge&label=Company&labelColor=21262D" /></td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td valign="middle"><img src="https://img.shields.io/badge/CareSphere-34D399?style=for-the-badge&label=Company&labelColor=0D1117" /></td>
 <td align="right"><sub><b>Aug 2024 – Dec 2025</b> · Full-time</sub></td>
 </tr></table>
 
@@ -174,10 +228,10 @@ Open-source collection of portable `SOUL.md` files that give LLM agents a distin
 
 Architected the workforce platform for <b>5,000+ caregivers</b> — scheduling, payroll, and performance tracking at scale.
 
-<table cellpadding="8" width="100%">
-<tr><td width="18" valign="top"><font color="#3FB950"><b>▸</b></font></td><td>Built <b>Agent ZOI</b> with tool use and self-RAG memory — ticket resolution from days to minutes, covering workload of 7 support staff</td></tr>
-<tr><td valign="top"><font color="#3FB950"><b>▸</b></font></td><td><b>80% load reduction</b> on scheduling APIs via Redis, query restructuring, and Postgres indexing under 5,000+ concurrent sessions</td></tr>
-<tr><td valign="top"><font color="#3FB950"><b>▸</b></font></td><td>Shipped gamified performance and rewards pipelines driving measurable caregiver engagement</td></tr>
+<table cellpadding="7" width="100%">
+<tr><td width="20" valign="top"><font color="#34D399"><b>▸</b></font></td><td>Built <b>Agent ZOI</b> with tool use and self-RAG memory — ticket resolution from days to minutes, covering workload of 7 support staff</td></tr>
+<tr><td valign="top"><font color="#34D399"><b>▸</b></font></td><td><b>80% load reduction</b> on scheduling APIs via Redis, query restructuring, and Postgres indexing under 5,000+ concurrent sessions</td></tr>
+<tr><td valign="top"><font color="#34D399"><b>▸</b></font></td><td>Shipped gamified performance and rewards pipelines driving measurable caregiver engagement</td></tr>
 </table>
 
 <br/>
@@ -187,10 +241,11 @@ Architected the workforce platform for <b>5,000+ caregivers</b> — scheduling, 
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #BC8CFF; border-bottom: 4px solid #BC8CFF;" bgcolor="#161B22"><tr><td>
+<!-- ───────────  Queens College  ─────────── -->
+<table width="100%" cellpadding="22" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #818CF8;border-bottom:4px solid #818CF8;" bgcolor="#0D1117"><tr><td>
 
-<table width="100%"><tr>
-<td><img src="https://img.shields.io/badge/Queens_College_CUNY-BC8CFF?style=for-the-badge&label=Research&labelColor=21262D" /></td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td valign="middle"><img src="https://img.shields.io/badge/Queens_College_CUNY-818CF8?style=for-the-badge&label=Research&labelColor=0D1117" /></td>
 <td align="right"><sub><b>Sep 2024 – Jan 2025</b> · Prof. Chialing Tsai</sub></td>
 </tr></table>
 
@@ -198,20 +253,21 @@ Architected the workforce platform for <b>5,000+ caregivers</b> — scheduling, 
 
 Led a 4-person team on <b>LLMs for tabular data</b>.
 
-<table cellpadding="8" width="100%">
-<tr><td width="18" valign="top"><font color="#BC8CFF"><b>▸</b></font></td><td><b>90–93% classification</b> and <b>81–86% regression</b> — ~40 points above traditional ML baselines</td></tr>
-<tr><td valign="top"><font color="#BC8CFF"><b>▸</b></font></td><td>Fine-tuning pipelines for GPT-3.5/4 with token-efficient table representations</td></tr>
-<tr><td valign="top"><font color="#BC8CFF"><b>▸</b></font></td><td>Turned 25+ papers into a reproducible experimental pipeline</td></tr>
+<table cellpadding="7" width="100%">
+<tr><td width="20" valign="top"><font color="#818CF8"><b>▸</b></font></td><td><b>90–93% classification</b> and <b>81–86% regression</b> — ~40 points above traditional ML baselines</td></tr>
+<tr><td valign="top"><font color="#818CF8"><b>▸</b></font></td><td>Fine-tuning pipelines for GPT-3.5/4 with token-efficient table representations</td></tr>
+<tr><td valign="top"><font color="#818CF8"><b>▸</b></font></td><td>Turned 25+ papers into a reproducible experimental pipeline</td></tr>
 </table>
 
 </td></tr></table>
 
 <br/>
 
-<table width="100%" cellpadding="20" cellspacing="0" style="border-radius: 12px; border: 1px solid #30363D; border-top: 4px solid #D29922; border-bottom: 4px solid #D29922;" bgcolor="#161B22"><tr><td>
+<!-- ───────────  Ingelt  ─────────── -->
+<table width="100%" cellpadding="22" cellspacing="0" style="border-radius:16px;border:1px solid #30363D;border-top:4px solid #FBBF24;border-bottom:4px solid #FBBF24;" bgcolor="#0D1117"><tr><td>
 
-<table width="100%"><tr>
-<td><img src="https://img.shields.io/badge/Ingelt_Board-D29922?style=for-the-badge&label=Internship&labelColor=21262D" /></td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td valign="middle"><img src="https://img.shields.io/badge/Ingelt_Board-FBBF24?style=for-the-badge&label=Internship&labelColor=0D1117" /></td>
 <td align="right"><sub><b>Jun – Aug 2023</b> · India</sub></td>
 </tr></table>
 
@@ -219,107 +275,135 @@ Led a 4-person team on <b>LLMs for tabular data</b>.
 
 Backend for an education platform serving <b>10,000+ students</b> — REST APIs, 45% latency reduction, CI/CD (4h → 30min), Docker/K8s on AWS.
 
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,git&theme=dark&perline=10" alt="Ingelt stack" /></a>
 
 </td></tr></table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:262626,58:121212,100:010409&height=1&section=header&text=%20" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
 
-<h2>Tech Stack</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:3a3a3a,58:121212,100:010409&height=1&section=header&text=%20" width="48" alt="" />
+<!-- ════════════════════════  TECH STACK  ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4,12,20&height=120&text=Tech%20Stack&fontSize=42&fontColor=E6EDF3&fontAlignY=42&animation=twinkling&desc=the%20tools%20behind%20the%20work&descSize=14&descAlignY=70" width="100%" alt="Tech Stack" />
 
-<br/><br/>
+<br/>
 
-<b>Languages & Frameworks</b>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nodejs,fastapi&theme=dark&perline=8" alt="Languages" /></a>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
 
-<br/><br/>
+<td width="33%" valign="top" align="center">
+  <table width="94%" cellpadding="16" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #22D3EE;" bgcolor="#0D1117"><tr><td align="center">
+  <sub><b>LANGUAGES & FRAMEWORKS</b></sub><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nodejs,fastapi&theme=dark&perline=4" alt="Languages" /></a>
+  </td></tr></table>
+</td>
 
-<b>AI / ML</b>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" alt="ML" /></a>
-<img src="https://img.shields.io/badge/LangGraph-21262D?style=for-the-badge&logoColor=BC8CFF" />
-<img src="https://img.shields.io/badge/RAG-21262D?style=for-the-badge&labelColor=21262D&color=BC8CFF" />
-<img src="https://img.shields.io/badge/RLVR-21262D?style=for-the-badge&labelColor=21262D&color=BC8CFF" />
-<img src="https://img.shields.io/badge/Transformers-21262D?style=for-the-badge&labelColor=21262D&color=BC8CFF" />
+<td width="33%" valign="top" align="center">
+  <table width="94%" cellpadding="16" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #A78BFA;" bgcolor="#0D1117"><tr><td align="center">
+  <sub><b>AI / ML</b></sub><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=4" alt="ML" /></a><br/>
+  <img src="https://img.shields.io/badge/LangGraph-A78BFA?style=flat-square&logoColor=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/RAG-22D3EE?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/RLVR-34D399?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Transformers-818CF8?style=flat-square&labelColor=0D1117" />
+  </td></tr></table>
+</td>
 
-<br/><br/>
+<td width="33%" valign="top" align="center">
+  <table width="94%" cellpadding="16" cellspacing="0" style="border-radius:14px;border:1px solid #30363D;border-top:4px solid #34D399;" bgcolor="#0D1117"><tr><td align="center">
+  <sub><b>INFRASTRUCTURE</b></sub><br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,postgres,mongodb,linux,git&theme=dark&perline=4" alt="Infra" /></a><br/>
+  <img src="https://img.shields.io/badge/Qdrant-34D399?style=flat-square&logo=qdrant&logoColor=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Supabase-22D3EE?style=flat-square&logo=supabase&logoColor=0D1117&labelColor=0D1117" />
+  </td></tr></table>
+</td>
 
-<b>Infrastructure</b>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,postgres,mongodb,linux,git&theme=dark&perline=8" alt="Infra" /></a>
-<img src="https://img.shields.io/badge/Qdrant-21262D?style=for-the-badge&logo=qdrant&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Supabase-21262D?style=for-the-badge&logo=supabase&logoColor=3FB950" />
+</tr></table>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:262626,58:121212,100:010409&height=1&section=header&text=%20" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
 
-<h2>GitHub Activity</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:3a3a3a,58:121212,100:010409&height=1&section=header&text=%20" width="48" alt="" />
+<!-- ════════════════════════  GITHUB ACTIVITY  ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,8,16&height=120&text=GitHub%20Activity&fontSize=42&fontColor=E6EDF3&fontAlignY=42&animation=twinkling&desc=consistent%20commits%2C%20measurable%20signal&descSize=14&descAlignY=70" width="100%" alt="GitHub Activity" />
 
-<br/><br/>
+<br/>
 
-<!-- github-readme-stats.vercel.app returns 503 — sigma mirror used below -->
-<table width="100%" cellpadding="8" cellspacing="0"><tr>
-<td align="center" width="33%">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhvantyagi&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&icon_color=3FB950&bg_color=0D1117&ring_color=58A6FF&border_radius=10" alt="GitHub Stats" height="165" />
+<!-- dynamic live stat strip -->
+<p>
+<img src="https://img.shields.io/github/followers/madhvantyagi?label=Followers&style=flat-square&color=22D3EE&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?color=818CF8&label=Public%20Repos&query=$.public_repos&url=https://api.github.com%2Fusers%2Fmadhvantyagi&style=flat-square&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?label=SOUL.md%20Stars&style=flat-square&color=A78BFA&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/last-commit/madhvantyagi/SOUL.md?label=Last%20Commit&style=flat-square&color=34D399&labelColor=0D1117&logo=git" />
+</p>
+
+<br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td width="50%" valign="top" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhvantyagi&show_icons=true&theme=dark&hide_border=true&title_color=22D3EE&text_color=E6EDF3&icon_color=818CF8&bg_color=0D1117&ring_color=22D3EE&border_radius=12" alt="GitHub Stats" width="100%" />
 </td>
-<td align="center" width="33%">
-  <img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=0e7490&fire=818cf8&currStreakLabel=67E8F9&sideLabels=E6EDF3&dates=8B949E&background=0D1117" alt="GitHub Streak" height="165" />
-</td>
-<td align="center" width="33%">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhvantyagi&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=6&border_radius=10&hide=html,css,scss" alt="Top Languages" height="165" />
+<td width="50%" valign="top" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvantyagi&layout=compact&theme=dark&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=0D1117&langs_count=6&border_radius=12&hide=html,css,scss" alt="Top Languages" width="100%" />
 </td>
 </tr></table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhvantyagi&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=30363D&point=BC8CFF&area=true&area_color=161B22" width="100%" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com/?user=madhvantyagi&theme=dark&hide_border=true&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=8B949E&background=0D1117&border_radius=12" alt="GitHub Streak" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhvantyagi&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=30363D&point=A78BFA&area=true&area_color=161B22&radius=12" alt="Contribution Graph" width="100%" />
+
+<br/><br/>
+
+<!-- light / dark aware contribution snake (auto-generated daily by GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,42:121212,50:262626,58:121212,100:010409&height=1&section=header&text=%20" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:30363D,100:0D1117&height=1&section=header&text=%20&fontSize=1" width="100%" alt="" />
 
 <br/>
 
 <div align="center">
 
-<table width="100%" cellpadding="28" cellspacing="0" style="border-radius: 14px; border: 1px solid #30363D; border-top: 4px solid #58A6FF; border-bottom: 4px solid #58A6FF;" bgcolor="#161B22"><tr><td align="center">
+<!-- ════════════════════════  CTA  ════════════════════════ -->
+<table width="100%" cellpadding="30" cellspacing="0" style="border-radius:18px;border:1px solid #30363D;border-top:4px solid #22D3EE;border-bottom:4px solid #818CF8;" bgcolor="#0D1117"><tr><td align="center">
 
 <h3>Let's Build the Hard Stuff</h3>
 
-<p align="center">
-Looking for teams building agent architectures, custom training pipelines, production RAG, and infrastructure that serves real users at scale.
-</p>
+<p>Looking for teams building agent architectures, custom training pipelines, production RAG,<br/>and infrastructure that serves real users at scale.</p>
 
 <br/>
 
-<a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-madhvantyagi1@gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+<a href="mailto:madhvantyagi1@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-madhvantyagi1@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=madhvantyagi&color=30363D&style=for-the-badge&label=Profile+Views&labelColor=161B22" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=madhvantyagi&color=22D3EE&style=flat-square&label=Profile%20Views&labelColor=0D1117" alt="Profile views" />
 
 </td></tr></table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,55:4338ca,0:06b6d4&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:0D1117,75:6366F1,45:06B6D4,0:22D3EE&height=110&section=footer&animation=twinkling&fontColor=E6EDF3&fontSize=1&text=%20" width="100%" alt="Footer" />
 
 </div>
