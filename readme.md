@@ -124,9 +124,9 @@ Open-source collection of portable `SOUL.md` files that give LLM agents a distin
 <!-- contribution snake — red accent, loaded locally -->
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake-dark.svg" />
-  <img alt="github contribution snake" src="github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/madhvantyagi/madhvantyagi/output/github-snake-dark.svg" width="100%" />
 </picture>
 </p>
 
