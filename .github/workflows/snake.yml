@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=c084fc&color_dots=#0D1117,#1e3a8a,#2563eb,#3b82f6,#60a5fa
-            dist/github-snake.svg?color_snake=7c3aed&color_dots=#ffffff,#dbeafe,#93c5fd,#3b82f6,#1d4ed8
+            dist/github-snake-dark.svg?color_snake=#ef4444&color_dots=#0D1117,#450a0a,#7f1d1d,#b91c1c,#dc2626
+            dist/github-snake.svg?color_snake=#ef4444&color_dots=#ffffff,#fee2e2,#fecaca,#f87171,#ef4444
 
       - name: Publish SVGs to the `output` branch
         uses: peaceiris/actions-gh-pages@v4
