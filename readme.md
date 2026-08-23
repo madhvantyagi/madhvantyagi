@@ -7,7 +7,7 @@
 
 <!-- 🎞 DROP HERO SQUARE GIF HERE (≈300×300) -->
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFvdWM2cGlqeTBqOHZvcWd0MGNyeDB4OWVqZ3d2MXl5OWNyZ3VycCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif" width="300" alt="Showcase" />
+<img src="./newcompressedgithub.jpg" alt="Showcase" />
 </p>
 
 <br/>
