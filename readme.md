@@ -37,60 +37,39 @@
 
 ## About
 
-Curious guy who likes maths, physics, motorbikes, and programming. I build AI systems that ship in production — multi-agent orchestration, hybrid retrieval, and RLVR fine-tuning. CS at Queens College, CUNY (May 2026). Founded [WORT.AI](https://www.wort.nyc) and [SOUL.md](https://github.com/madhvantyagi/SOUL.md).
-
-<p align="center">
-<img src="https://img.shields.io/badge/Maths-2563EB?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Physics-7C3AED?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Motorbikes-EA580C?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Programming-0D9488?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI%20Systems-E11D48?style=flat-square&labelColor=0D1117" />
-</p>
+<div align="center">
+<img src="about-banner.png" width="100%" alt="About" />
+</div>
 
 ---
 
 ## Featured Projects
 
-### WORT.AI · Autonomous Deep Research Agent
-*Recursive BFS · parallel researcher–reviewer loops · cited HTML reports · hybrid RAG memory*
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-1A3C2B?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
-<a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
-<img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Stars&color=1A3C2B&labelColor=0D1117" />
-<img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Forks&color=1A3C2B&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Query_Gen-71%25%20%E2%86%92%2094%25-059669?style=flat-square&logo=probot&logoColor=white&label=RLVR+Eval&labelColor=0D1117" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-1A3C2B?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
+      <img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Stars&color=1A3C2B&labelColor=0D1117" />
+      <img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Forks&color=1A3C2B&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Query_Gen-71%25%20%E2%86%92%2094%25-059669?style=flat-square&logo=probot&logoColor=white&label=RLVR+Eval&labelColor=0D1117" />
+      <br/><br/>
+      <a href="https://github.com/wortai/deep-research-agent"><img src="wort.png" width="100%" alt="WORT.AI" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-4C1D95?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+      <img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Stars&color=4C1D95&labelColor=0D1117" />
+      <img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Forks&color=4C1D95&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Persona_Hold-~78%25-059669?style=flat-square&logo=shield&logoColor=white&label=Adversarial&labelColor=0D1117" />
+      <br/><br/>
+      <a href="https://github.com/madhvantyagi/SOUL.md"><img src="soul.png" width="100%" alt="SOUL.md" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://img.shields.io/badge/GOAL-decompose-6D28D9?style=flat-square&labelColor=0D1117" />
-&nbsp;<b>›</b>&nbsp;
-<img src="https://img.shields.io/badge/PLAN-BFS%20tree-2563EB?style=flat-square&labelColor=0D1117" />
-&nbsp;<b>›</b>&nbsp;
-<img src="https://img.shields.io/badge/RUN-parallel%20agents-D97706?style=flat-square&labelColor=0D1117" />
-&nbsp;<b>›</b>&nbsp;
-<img src="https://img.shields.io/badge/REVIEW-reroute-E11D48?style=flat-square&labelColor=0D1117" />
-&nbsp;<b>›</b>&nbsp;
-<img src="https://img.shields.io/badge/SHIP-cited%20report-059669?style=flat-square&labelColor=0D1117" />
-</p>
-
-<!-- 🎞 DROP WORT DEMO GIF HERE -->
-
-A research engine built from first principles. WORT decomposes a goal into sub-queries, runs parallel researcher–reviewer subgraphs on a LangGraph state machine, closes information gaps iteratively via BFS, and ships cited reports people can trust — backed by Qdrant dense + sparse BM25 memory and RLVR-tuned Qwen (query generation 71% → 94%).
-
----
-
-### SOUL.md · Portable Agent Persona Specification
-*Behavioral steering · multi-model TRAIT eval · open source · drop-in agent personalities*
-
-<p align="center">
-<a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-4C1D95?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
-<img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Stars&color=4C1D95&labelColor=0D1117" />
-<img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Forks&color=4C1D95&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Persona_Hold-~78%25-059669?style=flat-square&logo=shield&logoColor=white&label=Adversarial&labelColor=0D1117" />
-</p>
-
-Open-source collection of portable `SOUL.md` files that give LLM agents a distinct, stable personality and steer how they reason, respond, and push back. Tested across DeepSeek, Gemini, and Claude — adversarial personas held up to ~78% under weak-to-strong jailbreaking. Hit 200+ stars and 20+ forks within two weeks of launch.
+</div>
 
 ---
 
