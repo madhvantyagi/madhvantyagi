@@ -45,9 +45,7 @@
 <a href="https://deepresearchagentui.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
 <img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Stars&color=1A3C2B&labelColor=0D1117" />
 <img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Forks&color=1A3C2B&labelColor=0D1117" />
-
-<br/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/madhvantyagi/SOUL.md"><img src="https://img.shields.io/badge/Repository-4C1D95?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 <img src="https://img.shields.io/github/stars/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Stars&color=4C1D95&labelColor=0D1117" />
 <img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Forks&color=4C1D95&labelColor=0D1117" />
