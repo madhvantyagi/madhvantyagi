@@ -51,10 +51,9 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/wortai/deep-research-agent"><img src="https://img.shields.io/badge/Repository-1A3C2B?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
-      <a href="https://www.wort.nyc"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
+      <a href="https://deepresearchagentui.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1A3C2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Live" /></a>
       <img src="https://img.shields.io/github/stars/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Stars&color=1A3C2B&labelColor=0D1117" />
       <img src="https://img.shields.io/github/forks/wortai/deep-research-agent?style=flat-square&logo=github&logoColor=white&label=Forks&color=1A3C2B&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Query_Gen-71%25%20%E2%86%92%2094%25-059669?style=flat-square&logo=probot&logoColor=white&label=RLVR+Eval&labelColor=0D1117" />
       <br/><br/>
       <a href="https://github.com/wortai/deep-research-agent"><img src="wort.png" width="100%" alt="WORT.AI" /></a>
     </td>
