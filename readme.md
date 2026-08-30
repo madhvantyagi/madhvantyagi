@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/github/forks/madhvantyagi/SOUL.md?style=flat-square&logo=github&logoColor=white&label=Forks&color=4C1D95&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Persona_Hold-~78%25-059669?style=flat-square&logo=shield&logoColor=white&label=Adversarial&labelColor=0D1117" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/wortai/deep-research-agent"><img src="wort.png" width="49%" alt="WORT.AI" /></a>
 <a href="https://github.com/madhvantyagi/SOUL.md"><img src="soul.png" width="49%" alt="SOUL.md" /></a>
