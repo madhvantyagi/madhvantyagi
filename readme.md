@@ -33,15 +33,9 @@
 
 </div>
 
----
-
-## About
-
 <div align="center">
 <img src="about-banner.png" width="100%" alt="About" />
 </div>
-
----
 
 ## Featured Projects
 
